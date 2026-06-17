@@ -1,0 +1,7 @@
+# 投資組合最佳化 — Python 套件需求 (Python 3.11)
+# notebook 含 fillna(method=) 等 pandas < 2.0 語法，故釘住相容版本。
+numpy==1.24.4
+pandas==1.5.3
+yfinance==0.2.40
+cvxpy==1.4.2
+matplotlib==3.7.5
